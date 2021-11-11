@@ -19,7 +19,7 @@ The 'EIN' and 'NAME' columns were removed from the dataframe as they were consid
 
 Summary:
 
-The model resulted in having a 
+The model resulted in having a ~69% accuracy and .63 loss. I would recommend using a RandomForestClassifer instead for the model to predict because I believe it is proficient with this sort of dataset containing multiple features.
 
 
 
